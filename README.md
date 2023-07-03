@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="5%">, I'm Kacper</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hi, I'm Kacper <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="5%"></h1>
+<h3 align="center">I'm a Full Stack Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kplusa/">
   <img align="center" width="20" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
